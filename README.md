@@ -22,3 +22,5 @@ This image scraper is a tool that allows you to scrape images from a specified w
 * Be aware that some websites may block web scraping, so the script may not work as expected.
 * Make sure to use the script in compliance with the website's terms of service.
 
+# Conclusion:
+* This image scraper is a useful tool for quickly and easily downloading images from a specified website. It is easy to use and customize to suit your needs.
